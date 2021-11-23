@@ -1,4 +1,4 @@
-name: Clerical Cost
+name: Clerical Cost Service Build & Test
 
 on:
   push:
